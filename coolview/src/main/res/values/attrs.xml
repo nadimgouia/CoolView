@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Options">
+        <attr name="title_text" format="string" localization="suggested" />
+        <attr name="title_color" format="color" />
+        <attr name="bg_color" format="color" />
+        <attr name="icon" format="reference" />
+        <attr name="border_radius" format="float" />
+        <attr name="border_color" format="color" />
+        <attr name="border_stroke" format="integer" />
+        <attr name="is_circle" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
